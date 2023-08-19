@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Black_Mummya and I'm a Ethical Hacker, My interest is in penetration testing, and I also have a keen interest in creating scripts for this field.</h2>
 
 ###
 
