@@ -1,24 +1,199 @@
-# 💫 About Me:
-🔭 I’m currently working on building advanced tools for penetration testing, reverse engineering, and system automation.<br>👯 I’m looking to collaborate on open-source cybersecurity projects, especially those related to reverse engineering and Python automation.<br>🤝 I’m looking for help with scaling and optimizing Python scripts for large-scale data analysis.<br>🌱 I’m currently learning more about advanced reverse engineering techniques using tools like Ghidra and Kali Linux.<br>💬 Ask me about Python, C#, .NET development, or anything related to system automation and cybersecurity.<br>⚡ Fun fact: I'm fascinated by how low-level system commands and reverse engineering can reveal the inner workings of software and help improve security!
+<div align="center">
 
+# 👾 Black Mummya
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kurdish_python) 
+### `Pentester` • `Malware Analyst` • `Reverse Engineer` • `Software Developer`
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=blackmummya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=blackmummya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=blackmummya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=760&lines=Breaking+software+to+understand+it.;Reverse+engineering+Windows+binaries.;Building+security+tools+with+Python+%26+C%23.;Exploring+the+path+from+Day+Zero+to+Zero+Day." alt="Typing SVG" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=blackmummya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![GitHub followers](https://img.shields.io/github/followers/blackmummya?style=for-the-badge&logo=github&label=Followers)](https://github.com/blackmummya)
+[![Profile Views](https://komarev.com/ghpvc/?username=blackmummya&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/blackmummya)
+[![Instagram](https://img.shields.io/badge/Instagram-kurdish__python-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kurdish_python)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=blackmummya&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
+
+## `> whoami`
+
+```text
+Security-focused developer and researcher.
+
+I spend most of my time understanding how software works beneath the surface:
+following call flows, reverse engineering Windows binaries, studying attack
+surfaces, analyzing suspicious code, and automating repetitive security work.
+
+When a problem needs a real product instead of a script, I also build desktop
+and web applications with .NET/WPF, Next.js, MySQL, and Supabase.
+```
+
+> **My mindset:** I do not just want to use software — I want to understand how it works, where it breaks, and how to make it safer.
+
+---
+
+## 🧠 What I Focus On
+
+| Area                        | What I work on                                                                                                 |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 🔴 **Penetration Testing**  | Attack-surface analysis, security testing, vulnerability discovery, and practical offensive-security workflows |
+| 🧬 **Reverse Engineering**  | Windows executables, static analysis, cross-references, call-flow analysis, binary behavior, and Ghidra        |
+| 🦠 **Malware Analysis**     | Suspicious binary inspection, behavior-focused analysis, code tracing, and understanding malicious techniques  |
+| 🪟 **Windows & .NET**       | Windows internals, Win32 concepts, C#, .NET, WPF, PowerShell, and desktop application analysis                 |
+| 🐍 **Security Automation**  | Python tooling for parsing, scanning, static analysis, automation, and large repetitive workflows              |
+| 🌐 **Software Engineering** | Next.js, TypeScript, Flask/FastAPI, Supabase, MySQL, APIs, and practical business applications                 |
+
+---
+
+## 🔬 Current Research & Learning
+
+- 🧩 Deepening **reverse engineering** with Ghidra and real Windows applications
+- 🪟 Studying **Windows internals**, low-level program behavior, and security boundaries
+- 🔎 Practicing **vulnerability research** and root-cause analysis
+- 🐍 Building Python tooling for **static analysis and security automation**
+- ⚙️ Improving C#/.NET skills for **Windows desktop tooling**
+- 📚 Working through the journey from **Day Zero → Zero Day**
+- 🧠 Focusing on understanding _why_ vulnerabilities happen, not only how to reproduce them
+
+---
+
+## 🛡️ Security Toolkit
+
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-Reverse_Engineering-BE1E2D?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-Internals-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Security_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-.NET_Analysis-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+</div>
+
+---
+
+## 💻 Languages, Frameworks & Platforms
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,c,cpp,ts,nextjs,html,css,mysql,postgres,supabase,git,github,linux,visualstudio,vscode&perline=9)](https://skillicons.dev)
+
+</div>
+
+<details>
+<summary><b>🧰 More of my development stack</b></summary>
+
+<br/>
+
+**Backend & APIs**
+
+- Python
+- Flask
+- FastAPI
+- .NET
+- REST APIs
+
+**Desktop**
+
+- C#
+- WPF
+- WinForms
+- Windows-focused tooling
+
+**Web**
+
+- Next.js
+- TypeScript / JavaScript
+- HTML / CSS
+
+**Data & Databases**
+
+- MySQL
+- PostgreSQL
+- Supabase
+- SQLite
+
+**Automation & Systems**
+
+- PowerShell
+- Shell scripting
+- Git / GitHub
+- Linux / Kali Linux
+
+</details>
+
+---
+
+## 🧪 What I Like Building
+
+```text
+[+] Security analysis tools
+[+] Reverse-engineering helpers
+[+] Static-analysis automation
+[+] Windows/.NET desktop utilities
+[+] Pentest workflow tooling
+[+] Full-stack applications that solve real business problems
+```
+
+I especially enjoy projects where **security research and software engineering meet** — tools that help turn raw technical evidence into something understandable and useful.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=blackmummya&show_icons=true&theme=tokyonight&hide_border=true" alt="Basit's GitHub stats" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=blackmummya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Basit's top languages" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=blackmummya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=blackmummya&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+## 🤝 Collaboration
+
+I am interested in collaborating on:
+
+- 🔐 Open-source cybersecurity tooling
+- 🧬 Reverse-engineering utilities
+- 🐍 Python security automation
+- 🪟 Windows/.NET security research
+- 🔎 Static-analysis and vulnerability-research projects
+
+If a project involves **understanding software deeply, finding weaknesses, or building tools that make technical work easier**, it will probably get my attention.
+
+---
+
+## ⚠️ Research Ethics
+
+Security work shown on this profile is intended for **authorized research, defensive learning, controlled labs, and legitimate security testing**.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-blackmummya-181717?style=for-the-badge&logo=github)](https://github.com/blackmummya)
+[![Instagram](https://img.shields.io/badge/Instagram-@kurdish__python-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kurdish_python)
+
+</div>
+
+---
+
+<div align="center">
+
+### `Understand it. Break it down. Build it better.`
+
+<sub>Cybersecurity • Reverse Engineering • Malware Analysis • Software Engineering</sub>
+
+</div>
